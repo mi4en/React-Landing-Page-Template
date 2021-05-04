@@ -1,4 +1,4 @@
-export const Gallery = props => {
+export const Gallery = () => {
 	return (
 		<div id='portfolio' className='text-center'>
 			<div className='container'>

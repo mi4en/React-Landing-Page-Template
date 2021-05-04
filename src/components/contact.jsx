@@ -148,9 +148,9 @@ export const Contact = props => {
 			<div id='footer'>
 				<div className='container text-center'>
 					<p>
-						&copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
-						<a href='http://www.templatewire.com' rel='nofollow'>
-							TemplateWire
+						&copy; 2021 Na Aleko Kremcheto. Created by{' '}
+						<a href='https://www.mario-nikolov.com' target='_blanc'>
+							Mario Nikolov
 						</a>
 					</p>
 				</div>

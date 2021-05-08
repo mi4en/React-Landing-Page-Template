@@ -1,4 +1,4 @@
-export const Gallery = () => {
+const Gallery = () => {
 	return (
 		<div id='portfolio' className='text-center'>
 			<div className='container'>
@@ -206,3 +206,5 @@ export const Gallery = () => {
 		</div>
 	);
 };
+
+export default Gallery;

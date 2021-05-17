@@ -12,7 +12,7 @@ const Header = props => {
 								</h1>
 								<p>{props.data ? props.data.paragraph : 'Loading'}</p>
 								<a
-									href='#features'
+									href='#services'
 									className='btn btn-custom btn-lg page-scroll'
 								>
 									Learn More
@@ -23,7 +23,7 @@ const Header = props => {
 				</div>
 			</div>
 		</header>
-	);
-};
+	)
+}
 
-export default Header;
+export default Header

@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import Navigation from './components/Navigation'
 import Header from './components/Header'
+import Footer from './components/Footer'
 import Features from './components/Features'
 import About from './components/About'
 import Ingridients from './components/Ingridients'
@@ -35,6 +36,7 @@ const App = () => {
 			{/* <Testimonials data={landingPageData.Testimonials} /> */}
 			<Team data={landingPageData.Team} />
 			<Contact data={landingPageData.Contact} />
+			<Footer />
 		</div>
 	)
 }

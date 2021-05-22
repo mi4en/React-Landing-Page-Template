@@ -34,12 +34,12 @@ const Navigation = () => {
 							</a>
 						</li>
 						<li>
-							<a href='#about' className='page-scroll'>
+							<a href='#ingridients' className='page-scroll'>
 								Inhaltsstoffe
 							</a>
 						</li>
 						<li>
-							<a href='#services' className='page-scroll'>
+							<a href='#about' className='page-scroll'>
 								Philosophie
 							</a>
 						</li>

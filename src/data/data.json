@@ -18,36 +18,60 @@
 			"Lorem ipsum dolor"
 		]
 	},
-	"Services": [
+	"Ingridients": [
 		{
-			"icon": "fa fa-tree",
-			"name": "Lorem ipsum dolor",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"img": "img/Ingridients/1_Rosenöl.png",
+			"name": "Bulgarisches Rosenöl",
+			"text": "Teurer als Gold – das Rosenöl Verbessert die Spannkraft der Haut und verfeinert das Hautbild. Rosenöl werden Wundheilung unterstützende, hautregenerierende Eigenschaften nachgesagt.",
+			"wiki": "https://de.wikipedia.org/wiki/Rosen%C3%B6l"
 		},
 		{
-			"icon": "fa fa-pagelines",
-			"name": "Consectetur adipiscing",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"img": "img/Ingridients/02_Mastix.png",
+			"name": "Griechisches Organic Chios Mastix",
+			"text": "Harz des Mastix-Baums (Tränen vom griechischen Insel Chios) beruhigt und reinigt die Haut. Es ist von einer antimikrobiellen und entzündungshemmenden Wirkung auszugehen.",
+			"wiki": "https://de.wikipedia.org/wiki/Mastix"
 		},
 		{
-			"icon": "fa fa-plus-square",
-			"name": "Lorem ipsum dolor",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"img": "img/Ingridients/4_Olivenöl.png",
+			"name": "Griechisches Olivenö",
+			"text": "Unterstützt die Glättung von Falten und fördert die gesunde Zellfunktion der Haut. Bietet bedingter natürlicher Schützt vor hautschädlicher UV-Strahlung und somit vorzeitige Hautalterung reduzieren.",
+			"wiki": "https://de.wikipedia.org/wiki/Oliven%C3%B6l"
 		},
 		{
-			"icon": "fa fa-mortar-pestle",
-			"name": "Consectetur adipiscing",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"img": "img/Ingridients/5_Kokosbutter.png",
+			"name": "Kokos Butter",
+			"text": "Natürliches Produkt reich an Vitamin E und Laurinsäure, der antibakterielle und entzündungshemmende Eigenschaften zugesprochen werden.",
+			"wiki": "https://de.wikipedia.org/wiki/Kokos%C3%B6"
 		},
 		{
-			"icon": "fa fa-fighter-jet",
-			"name": "Lorem ipsum dolor",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"img": "img/Ingridients/7_Sheabutter.png",
+			"name": "Shea Butter",
+			"text": "Macht die Haut zart und weich. Wirkt hautberuhigend und lindert Juckreiz.",
+			"wiki": "https://de.wikipedia.org/wiki/Bienenwachs"
 		},
 		{
-			"icon": "fa fa-pie-chart",
-			"name": "Consectetur adipiscing",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"img": "img/Ingridients/6_Kakaobutter_1.png",
+			"name": "Kakaobutter",
+			"text": "Stärkt die Zellen dank des hohen Anteils gesättigter und ungesättigter Fettsäuren sowie Vitamine und Mineralstoffe. Verleiht einen angenehmen Geruch.",
+			"wiki": "https://de.wikipedia.org/wiki/Kakaobutter"
+		},
+		{
+			"img": "img/Ingridients/8_Bienenwachs_1.png",
+			"name": "Bienenwachs",
+			"text": "Dank seiner natürlichen, hautschützenden und feuchtigkeitsgebenden Eigenschaft entfaltet die Hautcreme eine wohltuende und lindernde Wirkung.",
+			"wiki": "https://de.wikipedia.org/wiki/Bienenwachs"
+		},
+		{
+			"img": "img/Ingridients/9_Vitamin E.png",
+			"name": "Vitamin E",
+			"text": "Die natürliche Funktion von Vitamin E in der Haut besteht im Schutz vor freien Radikalen, die durch UV-Strahlung und Stress entstehen. Somit sollten Zellschäden in der Haut vermieden werden.",
+			"wiki": "https://www.douglas.de/de/c/kosmetik/inhaltsstoffe-lexikon/vitamin-e/990811"
+		},
+		{
+			"img": "img/Ingridients/10_Vitamin C.png",
+			"name": "Vitamin C",
+			"text": "Ein wirksames Antioxidans – Maßgeblich am Aufbau von Kollagen beteiligt. Hilft bei der Regeneration der Haut sowie wirksam gegen Unreinheiten, Akne und Pigmentflecken.",
+			"wiki": "https://www.douglas.de/de/c/kosmetik/inhaltsstoffe-lexikon/vitamin-c/990808"
 		}
 	],
 	"Testimonials": [

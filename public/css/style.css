@@ -348,19 +348,23 @@ header .intro-text {
 	padding: 0 0 0 10px;
 	border-radius: 50%;
 }
-#ingridients h3 {
+#ingridients a {
 	font-weight: 500;
+	font-size: 20px;
 	padding: 5px 0;
 	color: #fff;
 }
-#ingridients p {
-	color: #fff;
+#ingridients .service-desc button {
+	background: #333;
 }
-#ingridients a {
-	color: #333;
-	padding: 5px 15px 8px 15px;
-	background-color: #fff;
-	/* box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05); */
+#ingridients .service-desc button:hover {
+	background: rgb(104, 94, 94);
+}
+#ingridients .service-desc p {
+	margin-top: 20px;
+	color: #fff;
+	border: 1px solid #74643f;
+	padding: 5px;
 }
 #ingridients .service-desc {
 	margin-bottom: 40px;
@@ -618,5 +622,10 @@ label {
 @media (max-width: 768px) {
 	#about img {
 		margin: 50px 0;
+	}
+}
+@media (min-width: 768px) {
+	#ingridients .service-desc p {
+		min-height: 165px;
 	}
 }

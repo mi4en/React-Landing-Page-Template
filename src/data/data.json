@@ -40,10 +40,22 @@
 			"wiki": "https://de.wikipedia.org/wiki/Oliven%C3%B6l"
 		},
 		{
-			"img": "img/Ingridients/5_Kokosbutter.png",
-			"name": "Kokos Butter",
-			"text": "Natürliches Produkt reich an Vitamin E und Laurinsäure, der antibakterielle und entzündungshemmende Eigenschaften zugesprochen werden.",
-			"wiki": "https://de.wikipedia.org/wiki/Kokos%C3%B6"
+			"img": "img/Ingridients/4_AvocadoÖl.png",
+			"name": "Avocadoöl",
+			"text": "Es wirkt sich lindernd und wohltuend auf die Haut aus und spendet viel Feuchtigkeit.Reich an ungesättigte Fettsäuren sowie an natürliche Vitamine A, D und E.",
+			"wiki": "https://de.wikipedia.org/wiki/Oliven%C3%B6l"
+		},
+		{
+			"img": "img/Ingridients/8_Bienenwachs_1.png",
+			"name": "Bienenwachs",
+			"text": "Dank seiner natürlichen, hautschützenden und feuchtigkeitsgebenden Eigenschaft entfaltet die Hautcreme eine wohltuende und lindernde Wirkung.",
+			"wiki": "https://de.wikipedia.org/wiki/Bienenwachs"
+		},
+		{
+			"img": "img/Ingridients/6_Propolis.png",
+			"name": "Propolis Tinktur",
+			"text": "Propolis wirkt sich antibakteriell aus, hemmt Entzündungen und fördert die Regeneration geschädigter Hautzellen und das Wachstum neuen Hautgewebes. Versorgt die Haut mit wertvollen Vitaminen, Mineralien und Spurenelementen und stärkt die hauteigenen Abwehrkräfte.",
+			"wiki": "https://de.wikipedia.org/wiki/Bienenwachs"
 		},
 		{
 			"img": "img/Ingridients/7_Sheabutter.png",
@@ -58,10 +70,16 @@
 			"wiki": "https://de.wikipedia.org/wiki/Kakaobutter"
 		},
 		{
-			"img": "img/Ingridients/8_Bienenwachs_1.png",
-			"name": "Bienenwachs",
-			"text": "Dank seiner natürlichen, hautschützenden und feuchtigkeitsgebenden Eigenschaft entfaltet die Hautcreme eine wohltuende und lindernde Wirkung.",
-			"wiki": "https://de.wikipedia.org/wiki/Bienenwachs"
+			"img": "img/Ingridients/5_Kokosbutter.png",
+			"name": "Kokos Butter",
+			"text": "Natürliches Produkt reich an Vitamin E und Laurinsäure, der antibakterielle und entzündungshemmende Eigenschaften zugesprochen werden.",
+			"wiki": "https://de.wikipedia.org/wiki/Kokos%C3%B6"
+		},
+		{
+			"img": "img/Ingridients/10_Vitamin C.png",
+			"name": "Vitamin C",
+			"text": "Ein wirksames Antioxidans – Maßgeblich am Aufbau von Kollagen beteiligt. Hilft bei der Regeneration der Haut sowie wirksam gegen Unreinheiten, Akne und Pigmentflecken.",
+			"wiki": "https://www.douglas.de/de/c/kosmetik/inhaltsstoffe-lexikon/vitamin-c/990808"
 		},
 		{
 			"img": "img/Ingridients/9_Vitamin E.png",
@@ -70,10 +88,10 @@
 			"wiki": "https://www.douglas.de/de/c/kosmetik/inhaltsstoffe-lexikon/vitamin-e/990811"
 		},
 		{
-			"img": "img/Ingridients/10_Vitamin C.png",
-			"name": "Vitamin C",
-			"text": "Ein wirksames Antioxidans – Maßgeblich am Aufbau von Kollagen beteiligt. Hilft bei der Regeneration der Haut sowie wirksam gegen Unreinheiten, Akne und Pigmentflecken.",
-			"wiki": "https://www.douglas.de/de/c/kosmetik/inhaltsstoffe-lexikon/vitamin-c/990808"
+			"img": "img/Ingridients/12_Ringelblume.png",
+			"name": "Ringelblume",
+			"text": "Sie greift tief in den Stoffwechsel ein, reguliert die Blutzirkulation der Haut und steigert den Hauttonus - besonders bei verletzter, gereizter, empfindlicher und entzündeter Haut hilfreich.",
+			"wiki": "https://www.douglas.de/de/c/kosmetik/inhaltsstoffe-lexikon/vitamin-e/990811"
 		}
 	],
 	"Testimonials": [

@@ -14,7 +14,7 @@ const Ingridients = props => {
 					{props.data
 						? props.data.map((d, i) => (
 								<div key={`${d.name}-${i}`} className='col-md-4 col-sm-6'>
-									<img src={d.img} alt='...' className='ingridients-img' />
+									<img src={d.img} alt='...' />
 									<div className='service-desc'>
 										<button type='button' className='btn'>
 											<a href={d.wiki} target='_blanc'>

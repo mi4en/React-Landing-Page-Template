@@ -5,6 +5,102 @@
 		"paragraph1": "Unsere natürliche Hautcreme Serie mit bulgarischer Rosenöl, Harz aus dem Mastix Baum, Olivenöl, Shea und Kakaobutter, Bienenwachs und Vitaminen.",
 		"paragraph2": "Ein Naturprodukt ohne künstliche Konservierungsstoffe."
 	},
+	"Features": [
+		{
+			"img": "img/features/1_Regeneration.png",
+			"title": "Hautregeneration",
+			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+		},
+		{
+			"img": "img/features/2_Zellstruktur.png",
+			"title": "Entzündungshemmen & Anti-Bakteriell ",
+			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+		},
+		{
+			"img": "img/features/3_Antipollution.png",
+			"title": "Anti-Oxidativ & Anti-Polluaging",
+			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+		},
+		{
+			"img": "img/features/4_Feuchtigkeitsspendend.png",
+			"title": "Lifting & Feuchtigkeitsspendend",
+			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+		}
+	],
+	"Ingridients": [
+		{
+			"img": "img/ingridients/1_Rosenöl.png",
+			"name": "Bulgarisches Rosenöl",
+			"text": "Teurer als Gold – das Rosenöl Verbessert die Spannkraft der Haut und verfeinert das Hautbild. Rosenöl werden Wundheilung unterstützende, hautregenerierende Eigenschaften nachgesagt.",
+			"wiki": "https://de.wikipedia.org/wiki/Rosen%C3%B6l"
+		},
+		{
+			"img": "img/ingridients/02_Mastix.png",
+			"name": "Griechisches Organic Chios Mastix",
+			"text": "Harz des Mastix-Baums (Tränen vom griechischen Insel Chios) beruhigt und reinigt die Haut. Es ist von einer antimikrobiellen und entzündungshemmenden Wirkung auszugehen.",
+			"wiki": "https://de.wikipedia.org/wiki/Mastix"
+		},
+		{
+			"img": "img/ingridients/4_Olivenöl.png",
+			"name": "Griechisches Olivenö",
+			"text": "Unterstützt die Glättung von Falten und fördert die gesunde Zellfunktion der Haut. Bietet bedingter natürlicher Schützt vor hautschädlicher UV-Strahlung und somit vorzeitige Hautalterung reduzieren.",
+			"wiki": "https://de.wikipedia.org/wiki/Oliven%C3%B6l"
+		},
+		{
+			"img": "img/ingridients/4_AvocadoÖl.png",
+			"name": "Avocadoöl",
+			"text": "Es wirkt sich lindernd und wohltuend auf die Haut aus und spendet viel Feuchtigkeit.Reich an ungesättigte Fettsäuren sowie an natürliche Vitamine A, D und E.",
+			"wiki": "https://de.wikipedia.org/wiki/Oliven%C3%B6l"
+		},
+		{
+			"img": "img/ingridients/8_Bienenwachs_1.png",
+			"name": "Bienenwachs",
+			"text": "Dank seiner natürlichen, hautschützenden und feuchtigkeitsgebenden Eigenschaft entfaltet die Hautcreme eine wohltuende und lindernde Wirkung.",
+			"wiki": "https://de.wikipedia.org/wiki/Bienenwachs"
+		},
+		{
+			"img": "img/ingridients/6_Propolis.png",
+			"name": "Propolis Tinktur",
+			"text": "Propolis wirkt sich antibakteriell aus, hemmt Entzündungen und fördert die Regeneration geschädigter Hautzellen und das Wachstum neuen Hautgewebes. Versorgt die Haut mit wertvollen Vitaminen, Mineralien und Spurenelementen und stärkt die hauteigenen Abwehrkräfte.",
+			"wiki": "https://de.wikipedia.org/wiki/Bienenwachs"
+		},
+		{
+			"img": "img/ingridients/7_Sheabutter.png",
+			"name": "Shea Butter",
+			"text": "Macht die Haut zart und weich. Wirkt hautberuhigend und lindert Juckreiz.",
+			"wiki": "https://de.wikipedia.org/wiki/Bienenwachs"
+		},
+		{
+			"img": "img/ingridients/6_Kakaobutter_1.png",
+			"name": "Kakaobutter",
+			"text": "Stärkt die Zellen dank des hohen Anteils gesättigter und ungesättigter Fettsäuren sowie Vitamine und Mineralstoffe. Verleiht einen angenehmen Geruch.",
+			"wiki": "https://de.wikipedia.org/wiki/Kakaobutter"
+		},
+		{
+			"img": "img/ingridients/5_Kokosbutter.png",
+			"name": "Kokos Butter",
+			"text": "Natürliches Produkt reich an Vitamin E und Laurinsäure, der antibakterielle und entzündungshemmende Eigenschaften zugesprochen werden.",
+			"wiki": "https://de.wikipedia.org/wiki/Kokos%C3%B6"
+		},
+		{
+			"img": "img/ingridients/10_Vitamin C.png",
+			"name": "Vitamin C",
+			"text": "Ein wirksames Antioxidans – Maßgeblich am Aufbau von Kollagen beteiligt. Hilft bei der Regeneration der Haut sowie wirksam gegen Unreinheiten, Akne und Pigmentflecken.",
+			"wiki": "https://www.douglas.de/de/c/kosmetik/inhaltsstoffe-lexikon/vitamin-c/990808"
+		},
+		{
+			"img": "img/ingridients/9_Vitamin E.png",
+			"name": "Vitamin E",
+			"text": "Die natürliche Funktion von Vitamin E in der Haut besteht im Schutz vor freien Radikalen, die durch UV-Strahlung und Stress entstehen. Somit sollten Zellschäden in der Haut vermieden werden.",
+			"wiki": "https://www.douglas.de/de/c/kosmetik/inhaltsstoffe-lexikon/vitamin-e/990811"
+		},
+		{
+			"img": "img/ingridients/12_Ringelblume.png",
+			"name": "Ringelblume",
+			"text": "Sie greift tief in den Stoffwechsel ein, reguliert die Blutzirkulation der Haut und steigert den Hauttonus - besonders bei verletzter, gereizter, empfindlicher und entzündeter Haut hilfreich.",
+			"wiki": "https://www.douglas.de/de/c/kosmetik/inhaltsstoffe-lexikon/vitamin-e/990811"
+		}
+	],
 	"About": {
 		"paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 		"Why": [
@@ -20,80 +116,6 @@
 			"Lorem ipsum dolor"
 		]
 	},
-	"Ingridients": [
-		{
-			"img": "img/Ingridients/1_Rosenöl.png",
-			"name": "Bulgarisches Rosenöl",
-			"text": "Teurer als Gold – das Rosenöl Verbessert die Spannkraft der Haut und verfeinert das Hautbild. Rosenöl werden Wundheilung unterstützende, hautregenerierende Eigenschaften nachgesagt.",
-			"wiki": "https://de.wikipedia.org/wiki/Rosen%C3%B6l"
-		},
-		{
-			"img": "img/Ingridients/02_Mastix.png",
-			"name": "Griechisches Organic Chios Mastix",
-			"text": "Harz des Mastix-Baums (Tränen vom griechischen Insel Chios) beruhigt und reinigt die Haut. Es ist von einer antimikrobiellen und entzündungshemmenden Wirkung auszugehen.",
-			"wiki": "https://de.wikipedia.org/wiki/Mastix"
-		},
-		{
-			"img": "img/Ingridients/4_Olivenöl.png",
-			"name": "Griechisches Olivenö",
-			"text": "Unterstützt die Glättung von Falten und fördert die gesunde Zellfunktion der Haut. Bietet bedingter natürlicher Schützt vor hautschädlicher UV-Strahlung und somit vorzeitige Hautalterung reduzieren.",
-			"wiki": "https://de.wikipedia.org/wiki/Oliven%C3%B6l"
-		},
-		{
-			"img": "img/Ingridients/4_AvocadoÖl.png",
-			"name": "Avocadoöl",
-			"text": "Es wirkt sich lindernd und wohltuend auf die Haut aus und spendet viel Feuchtigkeit.Reich an ungesättigte Fettsäuren sowie an natürliche Vitamine A, D und E.",
-			"wiki": "https://de.wikipedia.org/wiki/Oliven%C3%B6l"
-		},
-		{
-			"img": "img/Ingridients/8_Bienenwachs_1.png",
-			"name": "Bienenwachs",
-			"text": "Dank seiner natürlichen, hautschützenden und feuchtigkeitsgebenden Eigenschaft entfaltet die Hautcreme eine wohltuende und lindernde Wirkung.",
-			"wiki": "https://de.wikipedia.org/wiki/Bienenwachs"
-		},
-		{
-			"img": "img/Ingridients/6_Propolis.png",
-			"name": "Propolis Tinktur",
-			"text": "Propolis wirkt sich antibakteriell aus, hemmt Entzündungen und fördert die Regeneration geschädigter Hautzellen und das Wachstum neuen Hautgewebes. Versorgt die Haut mit wertvollen Vitaminen, Mineralien und Spurenelementen und stärkt die hauteigenen Abwehrkräfte.",
-			"wiki": "https://de.wikipedia.org/wiki/Bienenwachs"
-		},
-		{
-			"img": "img/Ingridients/7_Sheabutter.png",
-			"name": "Shea Butter",
-			"text": "Macht die Haut zart und weich. Wirkt hautberuhigend und lindert Juckreiz.",
-			"wiki": "https://de.wikipedia.org/wiki/Bienenwachs"
-		},
-		{
-			"img": "img/Ingridients/6_Kakaobutter_1.png",
-			"name": "Kakaobutter",
-			"text": "Stärkt die Zellen dank des hohen Anteils gesättigter und ungesättigter Fettsäuren sowie Vitamine und Mineralstoffe. Verleiht einen angenehmen Geruch.",
-			"wiki": "https://de.wikipedia.org/wiki/Kakaobutter"
-		},
-		{
-			"img": "img/Ingridients/5_Kokosbutter.png",
-			"name": "Kokos Butter",
-			"text": "Natürliches Produkt reich an Vitamin E und Laurinsäure, der antibakterielle und entzündungshemmende Eigenschaften zugesprochen werden.",
-			"wiki": "https://de.wikipedia.org/wiki/Kokos%C3%B6"
-		},
-		{
-			"img": "img/Ingridients/10_Vitamin C.png",
-			"name": "Vitamin C",
-			"text": "Ein wirksames Antioxidans – Maßgeblich am Aufbau von Kollagen beteiligt. Hilft bei der Regeneration der Haut sowie wirksam gegen Unreinheiten, Akne und Pigmentflecken.",
-			"wiki": "https://www.douglas.de/de/c/kosmetik/inhaltsstoffe-lexikon/vitamin-c/990808"
-		},
-		{
-			"img": "img/Ingridients/9_Vitamin E.png",
-			"name": "Vitamin E",
-			"text": "Die natürliche Funktion von Vitamin E in der Haut besteht im Schutz vor freien Radikalen, die durch UV-Strahlung und Stress entstehen. Somit sollten Zellschäden in der Haut vermieden werden.",
-			"wiki": "https://www.douglas.de/de/c/kosmetik/inhaltsstoffe-lexikon/vitamin-e/990811"
-		},
-		{
-			"img": "img/Ingridients/12_Ringelblume.png",
-			"name": "Ringelblume",
-			"text": "Sie greift tief in den Stoffwechsel ein, reguliert die Blutzirkulation der Haut und steigert den Hauttonus - besonders bei verletzter, gereizter, empfindlicher und entzündeter Haut hilfreich.",
-			"wiki": "https://www.douglas.de/de/c/kosmetik/inhaltsstoffe-lexikon/vitamin-e/990811"
-		}
-	],
 	"Testimonials": [
 		{
 			"img": "img/testimonials/01.jpg",
@@ -155,27 +177,5 @@
 		"facebook": "fb.com",
 		"twitter": "twitter.com",
 		"youtube": "youtube.com"
-	},
-	"Features": [
-		{
-			"icon": "fa fa-comments-o",
-			"title": "Lorem ipsum",
-			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-		},
-		{
-			"icon": "fa fa-bullhorn",
-			"title": "Lorem ipsum",
-			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-		},
-		{
-			"icon": "fa fa-group",
-			"title": "Lorem ipsum",
-			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-		},
-		{
-			"icon": "fa fa-magic",
-			"title": "Lorem ipsum",
-			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-		}
-	]
+	}
 }

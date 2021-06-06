@@ -1,6 +1,7 @@
 import React from 'react'
 import Impressum from './modals/Impressum'
 import Daten from './modals/Daten'
+import AGB from './modals/AGB'
 
 const Contact = props => {
 	return (
@@ -42,9 +43,12 @@ const Contact = props => {
 							<button
 								type='submit'
 								className='btn btn-custom btn-contact-info btn-lg'
+								data-toggle='modal'
+								data-target='#agb'
 							>
 								AGB
 							</button>
+							<AGB />
 						</div>
 					</div>
 					<div className='col-md-3 col-md-offset-1 contact-info'>

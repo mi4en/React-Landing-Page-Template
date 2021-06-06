@@ -19,7 +19,9 @@ const Contact = props => {
 						<div className='row'>
 							<button
 								type='submit'
-								className='btn btn-custom btn-contact-info btn-lg data-toggle="modal" data-target="#exampleModal"'
+								className='btn btn-custom btn-contact-info btn-lg'
+								data-toggle='modal'
+								data-target='#impressum'
 							>
 								Impressum
 							</button>

@@ -615,6 +615,9 @@ label {
 #footer a:hover {
 	border-bottom: 2px solid #be9e55;
 }
+.text-black {
+	color: #333;
+}
 
 @media (max-width: 768px) {
 	#about img {

@@ -20,7 +20,6 @@ const Features = props => {
 									{' '}
 									<img src={d.img} alt='...' />
 									<h3>{d.title}</h3>
-									{/* <p>{d.text}</p> */}
 								</div>
 						  ))
 						: 'Loading...'}

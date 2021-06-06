@@ -8,14 +8,10 @@ const Contact = props => {
 		<div>
 			<div id='contact'>
 				<div className='container'>
-					<div className='col-md-8'>
+					<div className='col-md-7 col-md-offset-1'>
 						<div className='row'>
 							<div className='section-title'>
 								<h2>Über uns</h2>
-								{/* <p>
-									Please fill out the form below to send us an email and we will
-									get back to you as soon as possible.
-								</p> */}
 							</div>
 						</div>
 						<div className='row'>
@@ -51,7 +47,7 @@ const Contact = props => {
 							<AGB />
 						</div>
 					</div>
-					<div className='col-md-3 col-md-offset-1 contact-info'>
+					<div className='col-md-3  contact-info'>
 						<div className='contact-item'>
 							<h3>Kontaktinfo</h3>
 							<p>

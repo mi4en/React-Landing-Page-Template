@@ -8,23 +8,19 @@
 	"Features": [
 		{
 			"img": "img/features/1_Regeneration.png",
-			"title": "Hautregeneration",
-			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+			"title": "Hautregeneration"
 		},
 		{
 			"img": "img/features/2_Zellstruktur.png",
-			"title": "Entzündungshemmen & Anti-Bakteriell ",
-			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+			"title": "Entzündungshemmen & Anti-Bakteriell "
 		},
 		{
 			"img": "img/features/3_Antipollution.png",
-			"title": "Anti-Oxidativ & Anti-Polluaging",
-			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+			"title": "Anti-Oxidativ & Anti-Polluaging"
 		},
 		{
 			"img": "img/features/4_Feuchtigkeitsspendend.png",
-			"title": "Lifting & Feuchtigkeitsspendend",
-			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+			"title": "Lifting & Feuchtigkeitsspendend"
 		}
 	],
 	"Ingridients": [
@@ -102,7 +98,7 @@
 		}
 	],
 	"About": {
-		"paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"paragraph": "Basierend auf einer mehr als 100 Jahren alten französischen Rezeptur mit Zutaten aus dem Süden Europas sowie aus dem Orient, entwickelten meiner Großmütter (Chemikerin und Pharmazeutin) die Rezeptur generationsübergreifend immer weiter.",
 		"Why": [
 			"Lorem ipsum dolor",
 			"Tempor incididunt",

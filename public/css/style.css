@@ -70,6 +70,12 @@ hr {
 	margin-bottom: 20px;
 	border: 0;
 }
+.text-black {
+	color: #333;
+}
+.text-bold {
+	font-weight: 700;
+}
 /* Navigation */
 #menu {
 	padding: 15px;
@@ -316,6 +322,10 @@ header .intro-text {
 #about p {
 	line-height: 24px;
 	margin: 30px 0;
+}
+#about ul img {
+	width: 100px;
+	height: 120px;
 }
 /* Services Section */
 #ingridients {
@@ -614,9 +624,6 @@ label {
 }
 #footer a:hover {
 	border-bottom: 2px solid #be9e55;
-}
-.text-black {
-	color: #333;
 }
 
 @media (max-width: 768px) {

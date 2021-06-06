@@ -1,3 +1,5 @@
+import React from 'react'
+
 const Ingridients = props => {
 	return (
 		<div id='ingridients' className='text-center'>

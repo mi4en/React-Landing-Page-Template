@@ -174,8 +174,9 @@
 		"address": "4321 California St, San Francisco, CA 12345 ",
 		"phone": "+1 123 456 1234",
 		"email": "na_achi_kremcheto@gmail.com",
+		"customText": "bitte nutze die Kontaktmöglichkeiten ausschließlich für Anfragen an den Kundenservice, vielen Dank!",
 		"facebook": "fb.com",
-		"twitter": "twitter.com",
+		"twitter": "https://www.instagram.com/nature.meets.skin",
 		"youtube": "youtube.com"
 	}
 }

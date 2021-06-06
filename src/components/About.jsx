@@ -1,3 +1,5 @@
+import React from 'react'
+
 const About = props => {
 	return (
 		<div id='about'>
@@ -37,7 +39,7 @@ const About = props => {
 				</div>
 			</div>
 		</div>
-	);
-};
+	)
+}
 
-export default About;
+export default About

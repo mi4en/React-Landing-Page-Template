@@ -191,6 +191,9 @@ hr {
 	background-image: none;
 	background-color: #be9e55;
 }
+.btn-contact-info {
+	min-width: 290px;
+}
 .btn:active,
 .btn.active {
 	background-image: none;

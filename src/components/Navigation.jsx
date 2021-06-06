@@ -44,21 +44,6 @@ const Navigation = () => {
 							</a>
 						</li>
 						<li>
-							<a href='#portfolio' className='page-scroll'>
-								Bewertungen
-							</a>
-						</li>
-						{/* <li>
-							<a href='#testimonials' className='page-scroll'>
-								Testimonials
-							</a>
-						</li> */}
-						<li>
-							<a href='#team' className='page-scroll'>
-								Team
-							</a>
-						</li>
-						<li>
 							<a href='#contact' className='page-scroll'>
 								Impressum
 							</a>

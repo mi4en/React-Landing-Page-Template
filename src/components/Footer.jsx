@@ -5,7 +5,7 @@ const Footer = () => {
 		<div id='footer'>
 			<div className='container text-center'>
 				<p>
-					&copy; 2021 Gold & Roses. Website Created by{' '}
+					&copy; {new Date().getFullYear()} Gold & Roses. Website Created by{' '}
 					<a href='https://www.mario-nikolov.com' target='_blanc'>
 						Mario Nikolov
 					</a>

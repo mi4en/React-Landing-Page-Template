@@ -3,28 +3,28 @@ import React from 'react'
 const Impressum = () => {
 	return (
 		<div
-			class='modal fade'
+			className='modal fade'
 			id='impressum'
 			tabindex='-1'
 			role='dialog'
 			aria-labelledby='impressumLabel'
 		>
-			<div class='modal-dialog' role='document'>
-				<div class='modal-content'>
-					<div class='modal-header'>
+			<div className='modal-dialog' role='document'>
+				<div className='modal-content'>
+					<div className='modal-header'>
 						<button
 							type='button'
-							class='close'
+							className='close'
 							data-dismiss='modal'
 							aria-label='Close'
 						>
 							<span aria-hidden='true'>&times;</span>
 						</button>
-						<h4 class='modal-title' id='impressumLabel'>
+						<h4 className='modal-title' id='impressumLabel'>
 							Impressum
 						</h4>
 					</div>
-					<div class='modal-body'>
+					<div className='modal-body'>
 						<div className='text-black'>
 							<p className='text-black'>
 								Gesetzliche Anbieterkennung: To Be Determined GmbH
@@ -58,8 +58,12 @@ const Impressum = () => {
 							</p>
 						</div>
 					</div>
-					<div class='modal-footer'>
-						<button type='button' class='btn btn-default' data-dismiss='modal'>
+					<div className='modal-footer'>
+						<button
+							type='button'
+							className='btn btn-default'
+							data-dismiss='modal'
+						>
 							Close
 						</button>
 					</div>

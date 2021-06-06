@@ -1,5 +1,6 @@
 import React from 'react'
 import Impressum from './modals/Impressum'
+import Daten from './modals/Daten'
 
 const Contact = props => {
 	return (
@@ -18,23 +19,24 @@ const Contact = props => {
 						</div>
 						<div className='row'>
 							<button
-								type='submit'
 								className='btn btn-custom btn-contact-info btn-lg'
 								data-toggle='modal'
 								data-target='#impressum'
 							>
 								Impressum
 							</button>
-
 							<Impressum />
 						</div>
+
 						<div className='row'>
 							<button
-								type='submit'
 								className='btn btn-custom btn-contact-info btn-lg'
+								data-toggle='modal'
+								data-target='#daten'
 							>
 								Datenschutzerklärung
 							</button>
+							<Daten />
 						</div>
 						<div className='row'>
 							<button

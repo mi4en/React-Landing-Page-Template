@@ -7,7 +7,7 @@ const About = props => {
 				<div className='row'>
 					<div className='col-xs-12 col-md-6'>
 						<div className='about-text'>
-							<h2>Gold & Roses Philosophie</h2>
+							<h2>Philosophie</h2>
 							<h3>Nature First</h3>
 							<p>{props.data ? props.data.paragraph : 'loading...'}</p>
 						</div>
@@ -18,7 +18,7 @@ const About = props => {
 						/>
 					</div>
 					<div className='col-xs-12 col-md-6'>
-						<h3>Why Choose Nashto Kremche?</h3>
+						<h3>Unsere Leitlinien</h3>
 						<div className='list-style'>
 							<div>
 								<ul>
@@ -51,6 +51,8 @@ const About = props => {
 											</ul>
 										</div>
 									</li>
+									<br />
+
 									<li className='row'>
 										<img
 											src='img/philosophy/2.jpg'
@@ -59,7 +61,7 @@ const About = props => {
 										/>
 										<div className='col-xs-8'>
 											<h4>Nachhaltigkeit</h4>
-											<p>
+											<ul>
 												Unsere Produktverpackungen bestehen aus nachhaltigen
 												Rohstoffen. Unsere Produktverpackung besteht zu 98% aus
 												<span className='text-bold'>
@@ -69,9 +71,11 @@ const About = props => {
 												<span className='text-bold'>recycelfähigen</span>{' '}
 												Bambus. Aus hygienischen Gründen wird einen 100%
 												recycelfähigen Plastikseparator verwendet.
-											</p>
+											</ul>
 										</div>
 									</li>
+									<br />
+
 									<li className='row'>
 										<img
 											src='img/philosophy/3.jpg'
@@ -80,7 +84,7 @@ const About = props => {
 										/>
 										<div className='col-xs-8'>
 											<h4>Dermatologisch getestet & optimiert</h4>
-											<p>
+											<ul>
 												Die Qualität unserer Produkte steht im Vordergrund.
 												Deswegen wurde unsere Hautcreme von einem unabhängigen,
 												dermatologischen Institut nach geltenden EU-Richtlinien
@@ -88,9 +92,11 @@ const About = props => {
 												Bestnote ausgezeichnet.Bei zahlreichen Probandentest
 												durch Mitglieder unserer Teams und Community sind bisher
 												keine Nebenwirkungen bekannt.
-											</p>
+											</ul>
 										</div>
 									</li>
+									<br />
+
 									<li className='row'>
 										<img
 											src='img/philosophy/4.jpg'
@@ -99,7 +105,7 @@ const About = props => {
 										/>
 										<div className='col-xs-8'>
 											<h4>Tier und Umweltschutz</h4>
-											<p>
+											<ul>
 												<span className='text-bold'>Keine</span> Tierversuche -
 												weder bei den Inhaltsstoffen noch beim fertigen Produkt
 												Wir haben uns zum Ziel gesetzt -{' '}
@@ -114,7 +120,7 @@ const About = props => {
 													"Street Animal Rescue International"
 												</span>{' '}
 												gespendet.
-											</p>
+											</ul>
 										</div>
 									</li>
 								</ul>

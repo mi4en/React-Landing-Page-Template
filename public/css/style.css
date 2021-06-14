@@ -73,6 +73,9 @@ hr {
 .text-black {
 	color: #333;
 }
+.text-white {
+	color: #fff;
+}
 .text-bold {
 	font-weight: 700;
 }
@@ -362,7 +365,7 @@ header .intro-text {
 	color: #fff;
 }
 #ingridients .service-desc button {
-	background: #333;
+	background: #875a05;
 }
 #ingridients .service-desc button:hover {
 	background: rgb(104, 94, 94);
@@ -370,7 +373,6 @@ header .intro-text {
 #ingridients .service-desc p {
 	margin-top: 20px;
 	color: #fff;
-	border: 1px solid #74643f;
 	padding: 5px;
 }
 #ingridients .service-desc {

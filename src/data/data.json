@@ -1,7 +1,7 @@
 {
 	"Header": {
-		"title1": "Natrure's Gold",
-		"title2": "Das Gold der Natur",
+		"title1": "Nature Meets Skin",
+		"title2": "Natural Cosmetics",
 		"paragraph1": "Unsere natürliche Hautcreme Serie mit bulgarischer Rosenöl, Harz aus dem Mastix Baum, Olivenöl, Shea und Kakaobutter, Bienenwachs und Vitaminen.",
 		"paragraph2": "Ein Naturprodukt ohne künstliche Konservierungsstoffe."
 	},
@@ -12,11 +12,11 @@
 		},
 		{
 			"img": "img/features/2_Zellstruktur.png",
-			"title": "Entzündungshemmen & Anti-Bakteriell "
+			"title": "Entzündungshemmend & Anti-Bakteriell "
 		},
 		{
 			"img": "img/features/3_Antipollution.png",
-			"title": "Anti-Oxidativ & Anti-Polluaging"
+			"title": "Anti-Polluaging & Anti-Oxidativ"
 		},
 		{
 			"img": "img/features/4_Feuchtigkeitsspendend.png",
@@ -27,7 +27,7 @@
 		{
 			"img": "img/ingridients/1_Rosenöl.png",
 			"name": "Bulgarisches Rosenöl",
-			"text": "Teurer als Gold – das Rosenöl Verbessert die Spannkraft der Haut und verfeinert das Hautbild. Rosenöl werden Wundheilung unterstützende, hautregenerierende Eigenschaften nachgesagt.",
+			"text": "Teurer als Gold – das Rosenöl verbessert die Spannkraft der Haut und verfeinert das Hautbild. Rosenöl werden Wundheilung unterstützende, hautregenerierende Eigenschaften nachgesagt.",
 			"wiki": "https://de.wikipedia.org/wiki/Rosen%C3%B6l"
 		},
 		{
@@ -38,7 +38,7 @@
 		},
 		{
 			"img": "img/ingridients/4_Olivenöl.png",
-			"name": "Griechisches Olivenö",
+			"name": "Griechisches Olivenöl",
 			"text": "Unterstützt die Glättung von Falten und fördert die gesunde Zellfunktion der Haut. Bietet bedingter natürlicher Schützt vor hautschädlicher UV-Strahlung und somit vorzeitige Hautalterung reduzieren.",
 			"wiki": "https://de.wikipedia.org/wiki/Oliven%C3%B6l"
 		},
@@ -172,7 +172,7 @@
 		"email": "na_achi_kremcheto@gmail.com",
 		"customText": "bitte nutze die Kontaktmöglichkeiten ausschließlich für Anfragen an den Kundenservice, vielen Dank!",
 		"facebook": "fb.com",
-		"twitter": "https://www.instagram.com/nature.meets.skin",
+		"instagram": "https://www.instagram.com/nature.meets.skin",
 		"youtube": "youtube.com"
 	}
 }

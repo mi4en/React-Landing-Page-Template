@@ -5,12 +5,12 @@ const Features = props => {
 		<div id='features' className='text-center'>
 			<div className='container'>
 				<div className='col-md-10 col-md-offset-1 section-title'>
-					<h2>Nature's Gold - Das Gold der Natur</h2>
-					<p>Hautcreme mit wirkungsvollen und natürlichen Inhaltsstoffen</p>
+					<h2>Hautcreme mit wirkungsvollen und natürlichen Inhaltsstoffen</h2>
 					<p>100% Natural</p>
 					<p>
-						Die Hautcreme enthält ausschließlich natürlicher Zutaten. Über sie
-						liegen die folgenden wissenschaftlich erforschten Erkenntnisse vor.
+						Die Hautcreme enthält ausschließlich natürlicher Zutaten. Über die
+						Inhaltsstoffe liegen die folgenden wissenschaftlich erforschten
+						Erkenntnisse vor:
 					</p>
 				</div>
 				<div className='row'>

@@ -47,7 +47,8 @@ const Contact = props => {
 							<AGB />
 						</div>
 					</div>
-					<div className='col-md-3  contact-info'>
+
+					{/* <div className='col-md-3  contact-info'>
 						<div className='contact-item'>
 							<h3>Kontaktinfo</h3>
 							<p>
@@ -76,14 +77,18 @@ const Contact = props => {
 						<div className='contact-item'>
 							<p>{props.data ? props.data.customText : 'loading'}</p>
 						</div>
-					</div>
+					</div> */}
+
 					<div className='col-md-12'>
 						<div className='row'>
 							<div className='social'>
 								<ul>
 									<li>
-										<a href={props.data ? props.data.twitter : '/'}>
-											<i className='fa fa-twitter'></i>
+										<a
+											href={props.data ? props.data.instagram : '/'}
+											target='_blanc'
+										>
+											<i className='fa fa-instagram'></i>
 										</a>
 									</li>
 								</ul>

@@ -17,7 +17,7 @@ const Navigation = () => {
 					</button>
 					<div className='brand-container'>
 						<a className='navbar-brand page-scroll' href='#page-top'>
-							Gold & Roses
+							NATURE MEETS SKIN
 							<p>Natural Cosmetics</p>
 						</a>
 					</div>
@@ -30,7 +30,7 @@ const Navigation = () => {
 					<ul className='nav navbar-nav navbar-right'>
 						<li>
 							<a href='#features' className='page-scroll'>
-								Nature's Gold
+								Hautcreme
 							</a>
 						</li>
 						<li>
@@ -45,7 +45,7 @@ const Navigation = () => {
 						</li>
 						<li>
 							<a href='#contact' className='page-scroll'>
-								Impressum
+								Über uns
 							</a>
 						</li>
 					</ul>

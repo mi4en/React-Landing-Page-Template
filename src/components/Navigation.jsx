@@ -16,10 +16,7 @@ const Navigation = () => {
 						<span className='icon-bar'></span>{' '}
 					</button>
 					<div className='brand-container'>
-						<a className='navbar-brand page-scroll' href='#page-top'>
-							NATURE MEETS SKIN
-							<p>Natural Cosmetics</p>
-						</a>
+						<img src='img/logo.jpg' alt='logo' className='navbar-logo' />
 					</div>
 				</div>
 

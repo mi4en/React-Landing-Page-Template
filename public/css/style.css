@@ -154,6 +154,10 @@ hr {
 .navbar-default .navbar-toggle:hover > .icon-bar {
 	background-color: #be9e55;
 }
+.navbar-logo {
+	height: 50px;
+	width: 200px;
+}
 .section-title {
 	margin-bottom: 70px;
 }
